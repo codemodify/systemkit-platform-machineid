@@ -5,7 +5,9 @@ package machineid
 import (
 	"bytes"
 	"fmt"
+	"io"
 	"os"
+	"os/exec"
 	"strings"
 )
 
